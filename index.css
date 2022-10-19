@@ -1,0 +1,38 @@
+p{
+    color: #A020F0;
+    font-size: 18px;
+}
+
+div{
+    background-color:#FF6EB4;
+}
+
+.div-exercicio{
+    background-color:aquamarine;
+    text-align: center;
+}
+
+h1{
+    color: #FF34B3;
+    font-size: 24px;
+}
+
+img{
+    text-align: center;
+}
+
+.lista-nao-ordenada{
+    color:#000000;
+}
+
+.frase-fav{
+    text-align: center;
+}
+
+.lista-nao-ordenada{
+    text-align: center;
+}
+
+li{
+    list-style-type: none;
+}
